@@ -1,0 +1,10 @@
+policy,fig_label,probe_mWh,regret_mWh,delta_regret_mWh,ci_lo,ci_hi,significant
+Never,,0.0,105.1,,,,
+Fixed 1800 s,Fixed 1800s,2.1,97.0,-8.1,-29.8,13.6,
+Fixed 600 s,Fixed 600s,7.0,107.4,2.3,-42.3,47.0,
+Fixed 180 s,Fixed 180s,24.8,95.5,-9.6,-57.3,38.1,
+Fixed 60 s,Fixed 60s,77.2,71.2,-33.9,-69.8,1.9,
+Staleness 0.08,UCB 0.08,49.4,83.1,-22.0,-52.1,8.1,
+Staleness 0.03,UCB 0.03,228.6,102.7,-2.3,-44.1,39.4,
+Staleness 0.01,UCB 0.01,624.0,208.9,103.8,71.5,136.0,*
+Staleness 0.005,UCB 0.005,1052.8,242.8,137.7,71.7,203.8,*

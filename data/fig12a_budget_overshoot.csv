@@ -1,0 +1,13 @@
+policy,beta_pct,final_overshoot_pct,sd_lo,sd_hi
+Greedy (ECORE),0,57.7055,56.767,58.644
+Greedy (ECORE),5,57.6812,56.7184,58.644
+Greedy (ECORE),10,57.6812,56.7184,58.644
+Greedy (ECORE),20,59.0162,54.534,63.4983
+Greedy (ECORE),30,60.4886,54.4693,66.508
+Greedy (ECORE),50,61.2249,55.4563,67.0015
+Lyapunov controller,0,1.5975,0.295,2.9001
+Lyapunov controller,5,1.6865,0.3759,2.9972
+Lyapunov controller,10,1.4438,0.0199,2.8597
+Lyapunov controller,20,1.5895,-0.4655,3.6364
+Lyapunov controller,30,1.727,-0.9267,4.3888
+Lyapunov controller,50,1.7755,-1.1694,4.7124

@@ -1,0 +1,7 @@
+platform,u_thr_pct,m_max
+Raspberry Pi 5 + AI HAT+,54.5,1.5
+Raspberry Pi 5 + Coral TPU,58.2,1.5
+Raspberry Pi 5,64.5,1.67
+Raspberry Pi 4 + Coral TPU,69.3,1.54
+Jetson Orin Nano,89.0,1.37
+"Raspberry Pi 3, Jetson Nano",never,

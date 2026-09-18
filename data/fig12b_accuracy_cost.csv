@@ -1,0 +1,13 @@
+policy,beta_pct,mean_mAP,sd_lo,sd_hi
+Greedy (ECORE),0,29.8756,29.7481,30.0031
+Greedy (ECORE),5,29.8705,29.743,29.998
+Greedy (ECORE),10,29.8705,29.743,29.998
+Greedy (ECORE),20,29.9862,29.8016,30.1716
+Greedy (ECORE),30,30.083,29.8324,30.3335
+Greedy (ECORE),50,30.2031,29.7869,30.6193
+Lyapunov controller,0,26.1,25.9469,26.2531
+Lyapunov controller,5,26.078,25.9146,26.2421
+Lyapunov controller,10,26.1322,25.9095,26.355
+Lyapunov controller,20,25.8472,24.8947,26.7997
+Lyapunov controller,30,25.7571,24.6221,26.892
+Lyapunov controller,50,25.5556,24.4456,26.6649

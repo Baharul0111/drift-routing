@@ -1,0 +1,13 @@
+policy,budget_fraction,final_deviation_pct
+Greedy (ECORE),0.4,116.8281
+Greedy (ECORE),0.5,73.4653
+Greedy (ECORE),0.6,44.5405
+Greedy (ECORE),0.7,23.8822
+Greedy (ECORE),0.8,8.3966
+Greedy (ECORE),0.9,-3.6513
+Lyapunov controller,0.4,0.8994
+Lyapunov controller,0.5,1.8488
+Lyapunov controller,0.6,1.7506
+Lyapunov controller,0.7,-0.5902
+Lyapunov controller,0.8,-1.998
+Lyapunov controller,0.9,-3.7823

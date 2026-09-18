@@ -1,0 +1,21 @@
+
+\begin{table}[t]
+  \centering
+  \caption{Sustained-load threshold and worst-case slowdown by platform.
+    $u_\mathrm{thr}$ is the duty cycle above which the platform throttles;
+    $m_\mathrm{max}$ is the resulting worst-case latency multiplier.}
+  \label{tab:platform-thermal}
+  \small
+  \begin{tabular}{lrr}
+    \toprule
+    Platform & $u_\mathrm{thr}$ & $m_\mathrm{max}$ \\
+    \midrule
+    Raspberry Pi 5 + AI HAT+ & 54.5\% & 1.50 \\
+    Raspberry Pi 5 + Coral TPU & 58.2\% & 1.50 \\
+    Raspberry Pi 5 & 64.5\% & 1.67 \\
+    Raspberry Pi 4 + Coral TPU & 69.3\% & 1.54 \\
+    Jetson Orin Nano & 89.0\% & 1.37 \\
+    Raspberry Pi 3, Jetson Nano & never & -- \\
+    \bottomrule
+  \end{tabular}
+\end{table}

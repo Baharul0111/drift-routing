@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite the paper below."
+title: "drift-routing"
+abstract: >-
+  Data and regeneration scripts for the paper "Runtime drift breaks static
+  energy profiles: a measurement study and a survival-constrained router".
+type: software
+authors:
+  - family-names: Islam
+    given-names: Baharul
+license: MIT
+repository-code: "https://github.com/<user>/drift-routing"
+keywords:
+  - edge computing
+  - energy-aware scheduling
+  - Lyapunov optimization
+  - pervasive computing
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Runtime drift breaks static energy profiles: a measurement study and a
+    survival-constrained router
+  authors:
+    - family-names: Islam
+      given-names: Baharul
+  year: 2027
+  collection-title: "IEEE International Conference on Pervasive Computing and Communications (PerCom)"

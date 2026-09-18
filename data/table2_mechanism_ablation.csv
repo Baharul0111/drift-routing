@@ -1,0 +1,5 @@
+mechanism,energy_Wh,inversion_rate,mAP
+Thermal only,35.9,0.0,32.93
+Contention only,36.9,0.0067,32.71
+Battery only,42.0,0.0143,30.26
+All three,43.1,0.035,29.88
